@@ -92,12 +92,6 @@ Most scripts are designed to be run directly with `ts-node` for immediate feedba
 npx ts-node Book_01/Chapter_03_Type_Safe_AI/01_Basic_Examples/basic_zod_validation.ts
 ```
 
----
-
-## 🤝 Contributing & Feedback
-
-If you find a bug in the code or an error in the book, please open an Issue in this repository.
-
 ## 📄 License
 
 This code is provided under the **MIT License**. You are free to use it in your own projects, commercial or personal. See the [LICENSE](LICENSE) file for details.

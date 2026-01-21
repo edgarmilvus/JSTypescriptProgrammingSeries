@@ -7,7 +7,7 @@
 
 > **Official Source Code Repository** for the book by **Edgar Milvus**.
 >
-> 📖 **Get the Book:** [Available on Amazon](...amazon...)  
+> 📖 **Get the Book:** [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
 > 🔗 **Author Info:** [linktr.ee/edgarmilvus](https://linktr.ee/edgarmilvus)
 
 ---

@@ -24,8 +24,6 @@
 
 This repository contains the complete, production-ready source code examples found in **Volumes** of the **Web AI Series**.
 
-This book is designed to break the Python monopoly in AI development, teaching you how to build robust, type-safe AI applications using the modern stack you already know: **JavaScript**, **TypeScript**, and **Node.js**.
-
 ### 📚 Volume 1 Coverage
 This repo covers the foundational techniques required to become an AI Engineer:
 

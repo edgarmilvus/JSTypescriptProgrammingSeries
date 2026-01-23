@@ -1,15 +1,22 @@
 # Building Intelligent Apps with JavaScript & TypeScript
-### Volume 1: Foundations of the OpenAI API, Zod, and LangChain.js
+
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Official Source Code Repository** for the book by **Edgar Milvus**.
->
-> 📖 **Get the Book:** [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
-> 🔗 **Author Info:** [linktr.ee/edgarmilvus](https://linktr.ee/edgarmilvus)
 
+### Volume 1: Foundations of the OpenAI API, Zod, and LangChain.js
+> 📖 [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+
+### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
+
+> 📖 [Available on Amazon](https://www.amazon.com/gp/product/B0GJ6KX4VQ)
+ 
+## The Complete Series “AI with JavaScript & TypeScript”: [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+
+[On Leanpub.com, quantity disconts](https://leanpub.com/u/edgarmilvus)
 ---
 
 ## 🚀 About This Repository

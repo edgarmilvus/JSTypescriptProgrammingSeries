@@ -8,13 +8,14 @@
 > **Official Source Code Repository** for the book by **Edgar Milvus**.
 
 ### Volume 1: Foundations of the OpenAI API, Zod, and LangChain.js
-> 📖 [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+
+> 📖 [Available on Amazon](https://www.amazon.com/dp/B0G58JJN9D)
 
 ### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
 
 > 📖 [Available on Amazon](https://www.amazon.com/gp/product/B0GJ6KX4VQ)
  
-## The Complete Series “AI with JavaScript & TypeScript”: [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+### The Complete Series “AI with JavaScript & TypeScript”: [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
 
 [On Leanpub.com, quantity disconts](https://leanpub.com/u/edgarmilvus)
 ---

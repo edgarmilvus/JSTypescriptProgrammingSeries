@@ -18,7 +18,12 @@
 ### The Complete Series “AI with JavaScript & TypeScript”: [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
 
 [On Leanpub.com, quantity disconts](https://leanpub.com/u/edgarmilvus)
+
 ---
+
+Check also the [Python Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries)
+
+--- 
 
 ## 🚀 About This Repository
 

@@ -22,7 +22,7 @@
 
 ## 🚀 About This Repository
 
-This repository contains the complete, production-ready source code examples found in **Volume 1** of the **Web AI Series**.
+This repository contains the complete, production-ready source code examples found in **Volumes** of the **Web AI Series**.
 
 This book is designed to break the Python monopoly in AI development, teaching you how to build robust, type-safe AI applications using the modern stack you already know: **JavaScript**, **TypeScript**, and **Node.js**.
 
@@ -33,6 +33,18 @@ This repo covers the foundational techniques required to become an AI Engineer:
 *   **Part 2: Type-Safe AI:** Using **Zod** to enforce strict JSON schemas and prevent LLM hallucinations.
 *   **Part 3: Prompt Engineering:** Advanced patterns like System Prompts, Few-Shot Learning, and Chain-of-Thought (CoT).
 *   **Part 4: LangChain.js:** Building orchestrations, chains, and structured parsers.
+
+### 📚 Volume 2 Coverage
+See Amazon or Leanpub.com
+
+### 📚 Volume 3 Coverage
+See Amazon or Leanpub.com
+
+### 📚 Volume 4 Coverage
+See Amazon or Leanpub.com
+
+### 📚 Volume 5 Coverage
+See Amazon or Leanpub.com
 
 ---
 

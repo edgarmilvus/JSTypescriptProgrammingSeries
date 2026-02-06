@@ -114,6 +114,11 @@ Most scripts are designed to be run directly with `ts-node` for immediate feedba
 # Example: Running the basic Zod validation script
 npx ts-node Book_01/Chapter_03_Type_Safe_AI/01_Basic_Examples/basic_zod_validation.ts
 ```
+---
+
+[Series Blog](https://programmingcentral.hashnode.dev/series/typescript-js-programming)
+
+---
 
 ## 📄 License
 

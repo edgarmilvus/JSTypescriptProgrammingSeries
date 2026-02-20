@@ -15,9 +15,9 @@
  
 ### The Complete Series “AI with JavaScript & TypeScript”: 
 
-Get [Volumes 1 to 5: Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W) and
+Get [Volumes 1 to 5 on Amazon](https://www.amazon.com/dp/B0G59X6X7W) and
 
-[ALL Volumes: On Leanpub.com, quantity discounts](https://leanpub.com/u/edgarmilvus)
+[ALL Volumes on Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
 

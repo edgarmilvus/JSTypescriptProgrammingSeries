@@ -6,12 +6,12 @@
 
 > **Official Source Code Repository** for the ebooks.
 
-### Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.",
-### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.",
-### Volume 3: Master Your Data. Production RAG, Vector Databases, and Enterprise Search with JavaScript.",
-### Volume 4: Autonomous Agents. Building Multi-Agent Systems and Workflows with LangGraph.js.",
-### Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.",
-### Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.",
+### Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.
+### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
+### Volume 3: Master Your Data. Production RAG, Vector Databases, and Enterprise Search with JavaScript.
+### Volume 4: Autonomous Agents. Building Multi-Agent Systems and Workflows with LangGraph.js.
+### Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.
+### Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
  
 ### The Complete Series “AI with JavaScript & TypeScript”: 
 

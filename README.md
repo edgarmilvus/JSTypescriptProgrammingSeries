@@ -8,69 +8,26 @@
 > **Official Source Code Repository** for the book by **Edgar Milvus**.
 
 ### Volume 1: Foundations of the OpenAI API, Zod, and LangChain.js
-
-> 📖 [Available on Amazon](https://www.amazon.com/dp/B0G58JJN9D)
-
 ### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
-
-> 📖 [Available on Amazon](https://www.amazon.com/gp/product/B0GJ6KX4VQ)
  
-### The Complete Series “AI with JavaScript & TypeScript”: [Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+ 
+### The Complete Series “AI with JavaScript & TypeScript”: 
 
-[On Leanpub.com, quantity disconts](https://leanpub.com/u/edgarmilvus)
+[Volumes 1 to 5: Available on Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+
+[ALL Volumes: On Leanpub.com, quantity discounts](https://leanpub.com/u/edgarmilvus)
 
 ---
 
-Check also the [Python Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries)
+Check also the [Python Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
+the [C# & AI Masterclass Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries)
 
 --- 
 
 ## 🚀 About This Repository
 
 This repository contains the complete, production-ready source code examples found in **Volumes** of the **Web AI Series**.
-
-### 📚 Volume 1 Coverage
-This repo covers the foundational techniques required to become an AI Engineer:
-
-*   **Part 1: Foundations:** Setting up a secure Node.js AI environment and mastering the OpenAI API with `fetch` and the SDK.
-*   **Part 2: Type-Safe AI:** Using **Zod** to enforce strict JSON schemas and prevent LLM hallucinations.
-*   **Part 3: Prompt Engineering:** Advanced patterns like System Prompts, Few-Shot Learning, and Chain-of-Thought (CoT).
-*   **Part 4: LangChain.js:** Building orchestrations, chains, and structured parsers.
-
-### 📚 Volume 2 Coverage
-See Amazon or Leanpub.com
-
-### 📚 Volume 3 Coverage
-See Amazon or Leanpub.com
-
-### 📚 Volume 4 Coverage
-See Amazon or Leanpub.com
-
-### 📚 Volume 5 Coverage
-See Amazon or Leanpub.com
-
----
-
-## 📂 Project Structure
-
-The code is organized by **Chapter** and **Subsection**, mirroring the book's structure exactly.
-
-```text
-/Book_01
-  ├── /Chapter_01_Breaking_the_Python_Monopoly...
-  │     ├── 00_Theory_Concepts/    # Theoretical code snippets
-  │     ├── 01_Basic_Examples/     # "Hello World" style scripts
-  │     └── 02_Advanced_Project/   # Production-grade implementations
-  │
-  ├── /Chapter_02_Talking_to_the_Machine...
-  │     └── ...
-  │
-  ├── ...
-  │
-  └── /Chapter_20_Capstone...
-        └── 03_Solutions/          # Complete solutions to end-of-chapter exercises
-```
-
+ 
 ---
 
 ## 🛠️ Getting Started

@@ -1,10 +1,4 @@
-# Building Intelligent Apps with JavaScript & TypeScript
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-> **Official Source Code Repository** for the ebooks.
+**Official Source Code Repository** for the ebooks series: Building Intelligent Apps with JavaScript & TypeScript
 
 ### Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.
 ### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
@@ -13,15 +7,12 @@
 ### Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.
 ### Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
  
-### The Complete Series “AI with JavaScript & TypeScript”: 
-
-Get [Volumes 1 to 5 on Amazon](https://www.amazon.com/dp/B0G59X6X7W) and
-
-[ALL Volumes on Leanpub.com](https://leanpub.com/u/edgarmilvus)
+Get the series on [Amazon](https://www.amazon.com/dp/B0G59X6X7W)
+or [on Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
 
-Check also the [Python Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
+Check also the [Python & AI Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
 the [C# & AI Masterclass Programming Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)
 
 --- 

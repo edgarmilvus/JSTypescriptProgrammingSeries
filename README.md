@@ -13,7 +13,7 @@ Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Perf
 Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
  
 Get the series on [Amazon](https://www.amazon.com/dp/B0G59X6X7W)
-or [on Leanpub.com](https://leanpub.com/u/edgarmilvus)
+or [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
 

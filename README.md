@@ -1,11 +1,11 @@
-**Official Source Code Repository** for the ebooks series: Building Intelligent Apps with JavaScript & TypeScript
+# Building Intelligent Apps with JavaScript & TypeScript - ebooks series
 
-### Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.
-### Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
-### Volume 3: Master Your Data. Production RAG, Vector Databases, and Enterprise Search with JavaScript.
-### Volume 4: Autonomous Agents. Building Multi-Agent Systems and Workflows with LangGraph.js.
-### Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.
-### Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
+Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.
+Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
+Volume 3: Master Your Data. Production RAG, Vector Databases, and Enterprise Search with JavaScript.
+Volume 4: Autonomous Agents. Building Multi-Agent Systems and Workflows with LangGraph.js.
+Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.
+Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
  
 Get the series on [Amazon](https://www.amazon.com/dp/B0G59X6X7W)
 or [on Leanpub.com](https://leanpub.com/u/edgarmilvus)

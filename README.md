@@ -24,7 +24,8 @@ or [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ### 🚀 Free TypeScript & AI Engineering Masterclass
 
-I have made the entire series available on a dedicated, lightning-fast platform:
+I have made the entire series available on a dedicated, lightning-fast platform. 
+Each chapter covers everything from the basics to common pitfalls while the ebooks also feature advanced code with comments and exercises with instructor analysis.
 
 👉 [**Access the TypeScript & AI Series on Programming Central**](https://programmingcentral.vercel.app/books/typescript/)
 

@@ -11,12 +11,33 @@ Volume 4: Autonomous Agents. Building Multi-Agent Systems and Workflows with Lan
 Volume 5: The Edge of AI. Local LLMs (Ollama), Transformers.js, WebGPU, and Performance Optimization.
 
 Volume 6: The AI-Ready SaaS Boilerplate. Auth, Database with Vector Support, and Payment Stack.
- 
+
+Volume 7: Backend for Frontend & Intelligent APIs Backend for Frontend & Intelligent APIs. tRPC, Edge Functions, and LLM Data Transformation
+
+Volume 8: The Monetization Engine The Monetization Engine. Stripe, Smart Dunning, and AI Customer Support Agents
+
 Get the series on [Amazon](https://www.amazon.com/dp/B0G59X6X7W)
 or [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
+19-03-2026 News
 
+### 🚀 Free TypeScript & AI Engineering Masterclass
+
+I have made the entire series available on a dedicated, lightning-fast platform:
+
+👉 [**Access the TypeScript & AI Series on Programming Central**](https://programmingcentral.vercel.app/books/typescript/)
+
+**Why learn here?**
+*   **Zero Friction:** No signup, no email required, and no "waitlists." Everything is **instantly accessible** for free.
+*   **Structured Learning:** Use the sidebar menu on the left to browse the full curriculum. Chapters flow logically from core concepts to real-world AI implementation.
+*   **Engineering First:** We don't just show syntax; we dive into **practical examples** and identify **common pitfalls** that senior developers avoid.
+*   **Interactive Quizzes:** At the end of each chapter, you can test your knowledge with our custom quiz engine.
+
+**How the quizzes work:**
+The system generates a random set of engineering challenges for every attempt. You get **instant feedback** and, most importantly, a **detailed architectural explanation** for every correct and incorrect choice. It’s designed to ensure you master the *logic* of AI engineering, not just the code.
+
+---
 Check also the [Python & AI Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
 the [C# & AI Masterclass Programming Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)
 

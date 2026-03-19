@@ -39,6 +39,7 @@ Each chapter covers everything from the basics to common pitfalls while the eboo
 The system generates a random set of engineering challenges for every attempt. You get **instant feedback** and, most importantly, a **detailed architectural explanation** for every correct and incorrect choice. It’s designed to ensure you master the *logic* of AI engineering, not just the code.
 
 ---
+
 Check also the [Python & AI Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
 the [C# & AI Masterclass Programming Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)
 

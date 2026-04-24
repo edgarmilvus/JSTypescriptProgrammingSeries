@@ -40,9 +40,22 @@ The system generates a random set of engineering challenges for every attempt. Y
 
 ---
 
-Check also the [Python & AI Programming Series](https://github.com/edgarmilvus/PythonProgrammingSeries) and
-the [C# & AI Masterclass Programming Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)
+# Other programming & AI series:
 
+
+[Android & Kotlin AI Series](https://github.com/edgarmilvus/AndroidKotlinAIProgrammingSeries)
+
+[Swift & AI Series](https://github.com/edgarmilvus/SwiftAIProgrammingSeries)
+
+[C# & AI Series](https://github.com/edgarmilvus/CSharpProgrammingSeries)  
+
+[Typescript & AI Series](https://github.com/edgarmilvus/JSTypescriptProgrammingSeries)
+
+[Rust & AI Series](https://github.com/edgarmilvus/RustAIProgrammingSeries)
+
+[Python & AI Series](https://github.com/edgarmilvus/PythonProgrammingSeries) 
+
+ 
 --- 
 
 ## 🚀 About This Repository

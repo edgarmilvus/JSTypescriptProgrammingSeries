@@ -16,8 +16,7 @@ Volume 7: Backend for Frontend & Intelligent APIs Backend for Frontend & Intelli
 
 Volume 8: The Monetization Engine The Monetization Engine. Stripe, Smart Dunning, and AI Customer Support Agents
 
-Get the series on [Amazon](https://www.amazon.com/dp/B0G59X6X7W)
-or [Leanpub.com](https://leanpub.com/u/edgarmilvus)
+Get the series  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
 19-03-2026 News

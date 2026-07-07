@@ -16,6 +16,8 @@ Volume 7: Backend for Frontend & Intelligent APIs Backend for Frontend & Intelli
 
 Volume 8: The Monetization Engine The Monetization Engine. Stripe, Smart Dunning, and AI Customer Support Agents
 
+Volume 11: No More Localhost. Mastering Docker, Linux, and Containerization for JS & AI Apps
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

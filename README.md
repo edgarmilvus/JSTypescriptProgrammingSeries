@@ -20,6 +20,8 @@ Volume 11: No More Localhost. Mastering Docker, Linux, and Containerization for 
 
 Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, and Universal App
 
+Volume 19: Offline AI & Local LLMs. Running Llama 3 and Vector Search directly on the Smartphone
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

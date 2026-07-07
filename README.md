@@ -18,6 +18,8 @@ Volume 8: The Monetization Engine The Monetization Engine. Stripe, Smart Dunning
 
 Volume 11: No More Localhost. Mastering Docker, Linux, and Containerization for JS & AI Apps
 
+Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, and Universal App
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

@@ -20,6 +20,8 @@ Volume 11: No More Localhost. Mastering Docker, Linux, and Containerization for 
 
 Volume 12: The Perfect Pipeline. Advanced CI/CD with GitHub Actions, Automated Testing, and AI Code Reviews.
 
+Volume 14: Kubernetes & Orchestration. Deploying Scalable Node.js & AI Clusters without Tears
+
 Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, and Universal App
 
 Volume 19: Offline AI & Local LLMs. Running Llama 3 and Vector Search directly on the Smartphone

@@ -26,6 +26,8 @@ Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, an
 
 Volume 19: Offline AI & Local LLMs. Running Llama 3 and Vector Search directly on the Smartphone
 
+Volume 21: The TypeScript-First Architect. Building Robust Applications with Effect, Zod, and Drizzle
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

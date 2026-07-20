@@ -28,6 +28,10 @@ Volume 19: Offline AI & Local LLMs. Running Llama 3 and Vector Search directly o
 
 Volume 21: The TypeScript-First Architect. Building Robust Applications with Effect, Zod, and Drizzle
 
+Volume 22: The Native Era. Modern Node.js, Bun & Deno without Bundlers or Transpilers.
+
+Volume 23: Local-First Systems in TypeScript. Collaborative & Offline-Ready Web Apps with CRDTs and WASM DBs
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

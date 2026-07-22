@@ -34,6 +34,8 @@ Volume 22: The Native Era. Modern Node.js, Bun & Deno without Bundlers or Transp
 
 Volume 23: Local-First Systems in TypeScript. Collaborative & Offline-Ready Web Apps with CRDTs and WASM DBs
 
+Volume 24: TypeScript Metaprogramming. Advanced Type Gymnastics, Modern Decorators, and Compiler Internals
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

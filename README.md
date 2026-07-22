@@ -16,6 +16,8 @@ Volume 7: Backend for Frontend & Intelligent APIs Backend for Frontend & Intelli
 
 Volume 8: The Monetization Engine The Monetization Engine. Stripe, Smart Dunning, and AI Customer Support Agents
 
+Volume 9: AI-Driven Growth Engineering. Programmatic SEO with GPT-4, Content Automation, and Analytics.
+
 Volume 11: No More Localhost. Mastering Docker, Linux, and Containerization for JS & AI Apps
 
 Volume 12: The Perfect Pipeline. Advanced CI/CD with GitHub Actions, Automated Testing, and AI Code Reviews.

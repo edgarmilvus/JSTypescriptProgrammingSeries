@@ -28,6 +28,8 @@ Volume 16: React Native for Web Developers. From Next.js to Expo, NativeWind, an
 
 Volume 19: Offline AI & Local LLMs. Running Llama 3 and Vector Search directly on the Smartphone
 
+Volume 20: App Store Engineering. CI/CD for Mobile (EAS), OTA Updates, and AI-Driven App Store Optimization
+
 Volume 21: The TypeScript-First Architect. Building Robust Applications with Effect, Zod, and Drizzle
 
 Volume 22: The Native Era. Modern Node.js, Bun & Deno without Bundlers or Transpilers.

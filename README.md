@@ -40,7 +40,9 @@ Volume 24: TypeScript Metaprogramming. Advanced Type Gymnastics, Modern Decorato
 
 Volume 25: Model Context Protocol (MCP) & Computer Use. Standardizing Tool Integration, Vision-Driven Browser Automation, and Agent Governance
 
-Voluime 26: Generative Media & Visual Workflow Engines. Node-Based AI Canvases, Real-Time Media Streaming Pipelines, and WebGPU Processing
+Volume 26: Generative Media & Visual Workflow Engines. Node-Based AI Canvases, Real-Time Media Streaming Pipelines, and WebGPU Processing
+
+Volume 27: Neuro-Symbolic AI & Knowledge Graphs. Deterministic Solvers, GraphDBs, Ontologies, and Zero-Hallucination Architectures
 
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 

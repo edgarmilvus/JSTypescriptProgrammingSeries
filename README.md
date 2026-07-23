@@ -38,6 +38,9 @@ Volume 23: Local-First Systems in TypeScript. Collaborative & Offline-Ready Web 
 
 Volume 24: TypeScript Metaprogramming. Advanced Type Gymnastics, Modern Decorators, and Compiler Internals
 
+Volume 25: Model Context Protocol (MCP) & Computer Use. Standardizing Tool Integration, Vision-Driven Browser Automation, and Agent Governance in TypeScript
+
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

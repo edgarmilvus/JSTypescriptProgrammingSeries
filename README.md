@@ -44,6 +44,8 @@ Volume 26: Generative Media & Visual Workflow Engines. Node-Based AI Canvases, R
 
 Volume 27: Neuro-Symbolic AI & Knowledge Graphs. Deterministic Solvers, GraphDBs, Ontologies, and Zero-Hallucination Architectures
 
+Volume 28: Event-Driven Architecture & DDD in TypeScript. Event Sourcing, CQRS, and Microservices at Scale
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

@@ -46,6 +46,8 @@ Volume 27: Neuro-Symbolic AI & Knowledge Graphs. Deterministic Solvers, GraphDBs
 
 Volume 28: Event-Driven Architecture & DDD in TypeScript. Event Sourcing, CQRS, and Microservices at Scale
 
+Volume 29: Building Desktop Apps & Developer Tools with Tauri 2.0, Rust, and TypeScript
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

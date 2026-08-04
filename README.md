@@ -48,6 +48,8 @@ Volume 28: Event-Driven Architecture & DDD in TypeScript. Event Sourcing, CQRS, 
 
 Volume 29: Building Desktop Apps & Developer Tools with Tauri 2.0, Rust, and TypeScript
 
+Volume 30: FinTech Architecture in TypeScript. Precision Math, Double-Entry Ledgers, and High-Reliability Payment Pipelines
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

@@ -50,6 +50,8 @@ Volume 29: Building Desktop Apps & Developer Tools with Tauri 2.0, Rust, and Typ
 
 Volume 30: FinTech Architecture in TypeScript. Precision Math, Double-Entry Ledgers, and High-Reliability Payment Pipelines
 
+Volume 31: Hardened TypeScript. Passkeys, Supply Chain Defense, and Zero-Trust Architectures
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

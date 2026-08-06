@@ -52,6 +52,8 @@ Volume 30: FinTech Architecture in TypeScript. Precision Math, Double-Entry Ledg
 
 Volume 31: Hardened TypeScript. Passkeys, Supply Chain Defense, and Zero-Trust Architectures
 
+Volume 32: Spatial Web Development. Building Interactive 3D and WebXR Experiences with React Three Fiber & TypeScript
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

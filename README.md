@@ -54,6 +54,8 @@ Volume 31: Hardened TypeScript. Passkeys, Supply Chain Defense, and Zero-Trust A
 
 Volume 32: Spatial Web Development. Building Interactive 3D and WebXR Experiences with React Three Fiber & TypeScript
 
+Volume 34: Jev: The Definitive Guide to System One AI in TypeScript
+
 Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---

@@ -1,5 +1,7 @@
 # Building Intelligent Apps with JavaScript & TypeScript - ebooks series
 
+Get the volumes on [Leanpub.com](https://leanpub.com/u/edgarmilvus)
+
 Volume 1: Building Intelligent Apps with JavaScript & TypeScript. Foundations, OpenAI API, Zod, and LangChain.js.
 
 Volume 2: The Modern Stack. Building Generative UI with Next.js, Vercel AI SDK, and React Server Components.
@@ -56,7 +58,10 @@ Volume 32: Spatial Web Development. Building Interactive 3D and WebXR Experience
 
 Volume 34: Jev: The Definitive Guide to System One AI in TypeScript
 
-Get the volumes on  <!-- on [Amazon](https://www.amazon.com/dp/B0G59X6X7W) or --> [Leanpub.com](https://leanpub.com/u/edgarmilvus)
+Volume 35: JGoverning AI Coding Agents with StrictDoc & Tracey Stack: Controlling Spec Drift with Living Intent Graphs
+
+
+Get the volumes on [Leanpub.com](https://leanpub.com/u/edgarmilvus)
 
 ---
 19-03-2026 News

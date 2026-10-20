@@ -1,6 +1,6 @@
 # retry-sim
 
-Companion code for the article **"The retry loop that takes down your payment gateway"**.
+Companion code for the article [The retry loop that takes down your payment gateway](dev.to/programmingcentral/bulletproof-fintech-mastering-circuit-breakers-exponential-backoff-and-idempotency-in-typescript-57n2)
 
 Zero dependencies, zero build step. Node 24+ strips the TypeScript types natively,
 so there is nothing to install.

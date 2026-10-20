@@ -1,0 +1,33 @@
+
+10,000 clients fail in the same 400ms window. Retry #1: base 1000ms, cap 30000ms.
+Retries landing per 100ms bucket (shared scale, max = 10000):
+
+  naive — fixed 1000ms delay
+  when    clients   
+    1000ms   10000  ██████████████████████████████████████████████████
+
+  full jitter — random in [0, 1000ms)
+  when    clients   
+       0ms    1003  █████
+     100ms     970  █████
+     200ms     980  █████
+     300ms    1000  █████
+     400ms     954  █████
+     500ms    1048  █████
+     600ms    1044  █████
+     700ms     984  █████
+     800ms     991  █████
+     900ms    1026  █████
+
+  summary
+  strategy        peak/100ms  retries
+  fixed 1000ms    10000       10000
+  full jitter     1048        10000
+                  9.5x lower peak, same number of retries
+
+  jitter variants at attempt 4 (base 1000ms, cap 30000ms)
+  variant        min      median    max
+  full           1ms      3973ms    7999ms
+  equal          4000ms   5988ms    8000ms
+  decorrelated   1001ms   12411ms   24000ms
+
